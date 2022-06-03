@@ -14,9 +14,7 @@ An innovation in this approach relative to other methods is that I've employed t
 
 As of today (June 3, 2022), I have written an initial set of code (the main branch of this repository) that implements a DMM that allows for the slightly unusual structure of political data. I've run this code on many permutations of the data (different years, different questions) and am reasonably satisfied that the code is converging and performing well on the Maine data set. I've performed exploratory steps in analyzing the Swiss and American data and have implemented a fixed-K version of the mixture of experts extension.
 
-Here's what the current state of Maine map looks like:
-
-![alt text](map_all.pdf "Maine 2008-2019")
+Here's what the current model produces for the Maine data: ![click for map](map_all.pdf "Maine 2008-2019").
 
 ## Next steps
 
