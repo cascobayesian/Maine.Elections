@@ -16,7 +16,7 @@ As of today (June 3, 2022), I have written an initial set of code (the main bran
 
 Here's what the current state of Maine map looks like:
 
-
+![alt text](map_all.pdf "Maine 2008-2019")
 
 ## Next steps
 
