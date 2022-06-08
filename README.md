@@ -25,8 +25,8 @@ Thinngs I'm currently working on:
 * Mixture of experts model for covariates
 * Modelling the temporal structure with the data.
 
-## Topology and differential geometry of political latent space
+## The topology and differential geometry of political latent space
 
-There are some very interesting (well, interesting to me) questions raised about what the results of the model are telling us about the structure of political culture. Are two political cultures separate (in a topological sense) or do they exist along a gradient? This is both an interesting political science question (What does it mean if cultures are separated? Does that contribute to polarization?) as well as a statistical one. Down the road, I'm hoping to use the mixture model approach to take on these topological data analysis type questions.
+There are some very interesting (well, interesting to me) questions raised about what the results of the model are telling us about the structure of political cultures. Are two political cultures separate (in a topological sense) or do they exist along a gradient? This is both an interesting political science question (What does it mean if cultures are separated? Does that contribute to polarization?) as well as a statistical one. Down the road, I'm hoping to use the mixture model approach to take on these topological data analysis type questions. 
 
 
